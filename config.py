@@ -1,3 +1,4 @@
 DATABASE = 'portfolio.db'
 
-TOKEN = 'ТВОИ ПРОЕКТ'
+TOKEN = 'ТВОИ ТОКЕН'
+
